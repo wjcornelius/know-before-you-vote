@@ -1,0 +1,11 @@
+{
+  "last_updated": null,
+  "status": "Pipeline not yet active. Data will appear after first automated run.",
+  "data_sources": [],
+  "methodology": {
+    "min_sources_to_display": 2,
+    "fuzzy_match_threshold": 92,
+    "ai_disambiguation": true,
+    "connection_levels": ["Direct", "Contact", "Financial", "Institutional"]
+  }
+}
